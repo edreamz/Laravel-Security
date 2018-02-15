@@ -1,5 +1,5 @@
 {
-    "name": "graham-campbell/security",
+    "name": "edreamz/security",
     "description": "Security Is A Port Of The Security Class From Codeigniter 3 For Laravel 5",
     "keywords": ["laravel", "framework", "security", "codeigniter", "Security", "Laravel Security", "Laravel-Security", "Graham Campbell", "GrahamCampbell"],
     "license": "MIT",
@@ -11,13 +11,13 @@
     ],
     "require": {
         "php": "^7.0",
-        "illuminate/contracts": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*",
-        "illuminate/support": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*"
+        "illuminate/contracts": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*",
+        "illuminate/support": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*"
     },
     "require-dev": {
         "graham-campbell/analyzer": "^2.0",
         "graham-campbell/testbench": "^4.0|^5.0",
-        "phpunit/phpunit": "^6.5"
+        "phpunit/phpunit": "^6.5|^7.0"
     },
     "autoload": {
         "psr-4": {
